@@ -1,0 +1,2 @@
+# Repository for external dependencies
+This repository contains the external dependencies required for the build process. We mirror them on GitHub for better bandwidth. Some are recompressed with bzip2 because CMake is not yet capable of uncompressing some newer formats such as .xz.
